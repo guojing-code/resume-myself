@@ -25,4 +25,4 @@ $ gulp
 
 ## LICENSE
 
-MIT © [guojing](https://github.com/guojing_code/resume-myself.git)
+MIT © [guojing](https://github.com/guojing-code/resume-myself.git)
